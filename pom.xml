@@ -11,12 +11,7 @@
     <dependencies>
         <dependency>
             <groupId>org.apache.spark</groupId>
-            <artifactId>spark-streaming_2.11</artifactId>
-            <version>2.1.0</version>
-        </dependency>
-        <dependency>
-            <groupId>org.apache.spark</groupId>
-            <artifactId>spark-streaming-kafka-0-10_2.11</artifactId>
+            <artifactId>spark-core_2.11</artifactId>
             <version>2.1.0</version>
         </dependency>
     </dependencies>
