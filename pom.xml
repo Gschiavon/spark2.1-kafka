@@ -21,9 +21,9 @@
             <version>2.1.0</version>
         </dependency>
         <dependency>
-            <groupId>org.postgresql</groupId>
-            <artifactId>postgresql</artifactId>
-            <version>9.4-1205-jdbc42</version>
+            <groupId>org.elasticsearch</groupId>
+            <artifactId>elasticsearch-spark-20_2.11</artifactId>
+            <version>5.5.0</version>
         </dependency>
     </dependencies>
 
